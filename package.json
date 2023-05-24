@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://SimoesH10.github.com/repositorio",
+  "homepage": "https://SimoesH10.github.com/portifolioo",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://github-SimoesH10.github.io/repositorio'",
+    "build-gh": "parcel build --public-url 'https://github-SimoesH10.github.io/portifolioo'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
